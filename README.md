@@ -1,3 +1,5 @@
+## Git Workshop
+
 TEST ST STS TSTS TS
 
 TEST ST STS TSTS TS
@@ -19,3 +21,9 @@ Commit 2
 Commit 1
 |
 Root commit
+
+
+
+       GitHub
+         /\ /\
+        Client 1 Client2
